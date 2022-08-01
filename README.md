@@ -1,11 +1,10 @@
-### about me
+### sobre mim
 
-Here are some ideas to get you started:
+Olá eu sou o iago!
 
-- 🔭 I’m currently working on personal projects
-- 🌱 I’m currently learning python and information security
-- 💬 I’m looking for help with tips for backend, game dev, hacker tools.
-- 📫 How to reach me: 
+- 🔭 eu estou atualmente trabalhando em projetos pessoais
+- 🌱 estou aprendendo python e segurança da informação
+- 📫 como me encontrar: 
 
   *instagram: iago_manoel78
 
